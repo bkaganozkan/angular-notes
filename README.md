@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BasicCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.10.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+Angular Notes / Practices
+>>>>>>> b7dc6dc5aa721544aef13dc88509c24595ae1a0c
